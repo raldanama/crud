@@ -1,5 +1,5 @@
 import sqlite3
-#crud prueba
+#crud prueba 222222
 def connect_db():
     conn = sqlite3.connect("uninpahu.db")
     return conn
